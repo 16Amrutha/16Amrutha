@@ -1,10 +1,13 @@
-# Hi there 👋, I'm Amrutha (Ammu)
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Amrutha</h1>
 
-### Artificial Intelligence & Data Science Student | Android Developer | Frontend Developer | Problem Solver
+<h3 align="center">
+AI & Data Science Student • AI Developer • Android Developer • Frontend Developer
+</h3>
 
-I'm a final-year B.E. student in Artificial Intelligence and Data Science at Shri Madhwa Vadiraja Institute of Technology and Management, Bantakal, Udupi.
-
-I am passionate about building technology-driven solutions that solve real-world problems and positively impact people's lives. I enjoy exploring Android Development, Web Development, Artificial Intelligence, Machine Learning, IoT, and emerging technologies.
+<p align="center">
+Passionate about building AI-powered solutions that solve real-world problems.
+</p>
 
 ---
 
@@ -75,18 +78,6 @@ Research and development projects focused on breast cancer detection, stroke ris
 
 ---
 
-## 📚 Currently Learning
-
-* Flutter App Development
-* Android Development
-* Machine Learning
-* Deep Learning
-* Artificial Intelligence
-* IoT Systems
-* Cloud Technologies
-
----
-
 ## 🏆 Achievements
 
 * 🥇 Hackathon Participant and Winner
@@ -97,11 +88,55 @@ Research and development projects focused on breast cancer detection, stroke ris
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Statistics
 
-![Amrutha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=16Amrutha\&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=16Amrutha\&layout=compact)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=16Amrutha&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16Amrutha&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=16Amrutha&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=16Amrutha&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=16Amrutha&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/16Amrutha/16Amrutha/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
