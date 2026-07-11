@@ -88,14 +88,20 @@ Research and development projects focused on breast cancer detection, stroke ris
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Overview
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=16Amrutha&theme=tokyonight"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=16Amrutha&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=16Amrutha&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=16Amrutha&theme=tokyonight"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16Amrutha&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=16Amrutha&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=16Amrutha&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
@@ -120,11 +126,11 @@ Research and development projects focused on breast cancer detection, stroke ris
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Metrics
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=16Amrutha&theme=tokyonight&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/16Amrutha/16Amrutha/main/github-metrics.svg"/>
 
 </p>
 
